@@ -1,0 +1,13 @@
+options API
+
+to
+
+composition API (explicit setup or the newer is to simply do this
+
+newer script setup:
+
+<script setup></script>
+
+to make the application reactive(do updates when data changes) use ("ref"
+
+
